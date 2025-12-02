@@ -12,6 +12,8 @@
 
 Ответ: 
 
+https://github.com/sergey-281296/Disaster-recovery-Keepalived/blob/main/Овсянников.pkt
+
 
 
 
