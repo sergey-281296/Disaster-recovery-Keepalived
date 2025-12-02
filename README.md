@@ -12,8 +12,8 @@
 
 Ответ: 
 
-https://github.com/sergey-281296/Disaster-recovery-Keepalived/blob/main/Овсянников.pkt
+[Овсянников.pkt](Овсянников.pkt)
 
-
+![Настройка](Снимок%20экрана%202025-12-02%20210005.png)
 
 
