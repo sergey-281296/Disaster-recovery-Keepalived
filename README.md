@@ -12,6 +12,6 @@
 
 Ответ: 
 
-<img width="1890" height="922" alt="image" src="https://github.com/user-attachments/assets/7f3ac0b9-423c-4588-8d39-bf4b72f4ae81" />
+
 
 
